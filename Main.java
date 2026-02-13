@@ -30,4 +30,16 @@ public class Main {
         Calcu lamMax = (a,b) -> Math.max(a,b);
         System.out.println(lamMax.sum(10,20));
     }
+
+    /*
+    interface Calculator{
+     int sum(int a ,int b);
+     }
+     Carculator car1 = new Carculator();
+     public sum(int a, int b){
+     return a+b;
+
+     or Carculator car =(a,b) -> a+b ;
+     sout  ( car.sum(10,20));
+     */
 }
