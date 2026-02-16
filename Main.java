@@ -34,12 +34,10 @@ public class Main {
     /*
     interface Calculator{
      int sum(int a ,int b);
-     }
-     Carculator car1 = new Carculator();
-     public sum(int a, int b){
-     return a+b;
-
-     or Carculator car =(a,b) -> a+b ;
-     sout  ( car.sum(10,20));
-     */
-}
+   
+    } @Override
+    Calculator cal1 =(a,b) -> a+b;
+    Calculator cal2 = (a,b) -> Math.max(a,b);
+    Claculator cal3 = (a,b) -> (a>=b) ? a:b ;
+    */
+    
