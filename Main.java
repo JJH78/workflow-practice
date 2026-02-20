@@ -29,6 +29,9 @@ public class Main {
         Random random = new Random();
         Calcu lamMax = (a,b) -> Math.max(a,b);
         System.out.println(lamMax.sum(10,20));
+ 
+	ramdom random = new Random();
+	Calcu lam =(a,b) -> (a>=b) ? a : b ;
     }
 
     /*
