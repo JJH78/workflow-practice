@@ -35,7 +35,8 @@ public class Main {
     }
 
     /*
-    interface Calculator{
+    interface practice  concat concat_ws ifnull coalesce 
+    length char_length count() null is not number and character..
      int sum(int a ,int b);
    
     } @Override
