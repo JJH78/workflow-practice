@@ -32,12 +32,17 @@ public class Main {
  
 	ramdom random = new Random();
 	Calcu lam =(a,b) -> (a>=b) ? a : b ;
+	Calcu lam =(a,b) -> (a>=b) ? a : b ;
+	Calcu lam =(a,b) -> (a>=b) ? a : b ;
+	Calcu lam =(a,b) -> (a>=b) ? a : b ;
+
     }
 
     /*
     interface practice  concat concat_ws ifnull coalesce 
     length char_length count() null is not number and character..
      int sum(int a ,int b);
+     vv
    
     } @Override
     Calculator cal1 =(a,b) -> a+b;
