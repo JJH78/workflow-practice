@@ -33,9 +33,10 @@ public class Main {
 	ramdom random = new Random();
 	Calcu lam =(a,b) -> (a>=b) ? a : b ;
 	Calcu lam =(a,b) -> (a>=b) ? a : b ;
-	Calcu lam =(a,b) -> (a>=b) ? a : b ;
+	Calcu lam =(a,b) -> (a>=b) ? a : b;
 	Calcu lam =(a,b) -> (a>=b) ? a : b ;
 
+	ㅅ마항연산다.
     }
 
     /*
