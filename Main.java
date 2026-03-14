@@ -36,7 +36,7 @@ public class Main {
 	Calcu lam =(a,b) -> (a>=b) ? a : b;
 	Calcu lam =(a,b) -> (a>=b) ? a : b ;
 
-	ㅅ마항연산다.
+	8th exercise
     }
 
     /*
